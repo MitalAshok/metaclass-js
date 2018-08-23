@@ -1,0 +1,28 @@
+{
+  "name": "metaclass",
+  "version": "1.0.0",
+  "description": "A class where its instances are classes",
+  "main": "metaclass.js",
+  "browser": "browser_metaclass.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MitalAshok/metaclass-js.git"
+  },
+  "keywords": [
+    "OOP",
+    "metaclass",
+    "prototype"
+  ],
+  "author": "MitalAshok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MitalAshok/metaclass-js/issues"
+  },
+  "homepage": "https://github.com/MitalAshok/metaclass-js#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
